@@ -5,3 +5,9 @@ export const DEL = 'DEL'
 export const SHOW_MESSAGE = 'SHOW_MESSAGE'
 export const EDIT_TODO = 'EDIT_TODO'
 export const UPDATE= 'UPDATE'
+
+
+export const ITEMS_HAS_ERRORED = 'ITEMS_HAS_ERRORED'
+export const ITEMS_IS_LOADING = 'ITEMS_IS_LOADING'
+export const ITEMS_FETCH_DATA_SUCCESS = 'ITEMS_FETCH_DATA_SUCCESS'
+export const UPDATE_CITIES = 'UPDATE_CITIES'
